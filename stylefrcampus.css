@@ -1,0 +1,34 @@
+div{
+    color: white;
+    height: 50px;
+    background-color: gray;
+}
+
+ul
+{
+    align-items: center;
+    position: fixed;
+
+
+    
+    
+}
+ul li{
+    display: inline;
+    padding: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: 1000;
+}
+img{
+    padding-top: 50px;
+    width: 100%;
+}
+p{
+    padding-left: 30%;
+    padding-right: 50%;
+    text-align: center;
+    width: 50%;
+}
